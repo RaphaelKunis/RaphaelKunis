@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaphaelKunis
-- 👀 I’m interested in Git, Java, 
+- 👀 I’m interested in Git, Java, Terraform, docs-as-code
 - 🌱 I’m currently learning Spring, Docker, Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
